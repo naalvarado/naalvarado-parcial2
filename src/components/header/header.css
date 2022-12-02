@@ -1,0 +1,13 @@
+.logo {
+    max-height: 100px;
+    width: auto;
+}
+
+.header-tit {
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+header {
+    background-color: aquamarine;
+}
